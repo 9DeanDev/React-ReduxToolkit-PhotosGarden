@@ -1,0 +1,9 @@
+.PhotoForm {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+
+    label {
+        font-weight: bold;
+    }
+}

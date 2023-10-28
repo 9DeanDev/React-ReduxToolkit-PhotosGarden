@@ -1,0 +1,17 @@
+.Banner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-image: url(../../assets/images/backgrounddf.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 15rem;
+
+    .title {
+        color: #ffffff;
+        font-size: 3rem;
+        font-weight: bold;
+    }
+}
